@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+千里之行，始于足下
+> “The journey of a thousand miles begins with one step.”
 <!--
 **Kraedal/Kraedal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
