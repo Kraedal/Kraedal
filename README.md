@@ -1,53 +1,38 @@
-# Jacob Ong
+# hi, i'm Jacob ☕
 
-`backend developer` · `integrations` · `automation`
+*千里之行，始于足下 — the journey of a thousand miles begins with one step.*
 
-> 千里之行，始于足下
+pull up a chair. i build quiet little tools that take the repetitive work off your plate: backend services, API integrations, and automations that just keep humming along.
 
-```console
-$ whoami
-jacob — builds tools that turn repetitive work into efficient workflows
+```ini
+; ~/.config/jacob.conf
 
-$ cat focus.txt
-backend development, web applications, system integrations
+[now]
+mood      = cozy
+drinking  = coffee ☕
+building  = reliable systems, one small project at a time
+location  = philippines 🇵🇭
 
-$ cat stack.txt
-typescript  sveltekit  python  sql
-
-$ echo $LOCATION
-philippines 🇵🇭
+[likes]
+system design, automation, developer tooling,
+and figuring out how things work underneath
 ```
 
-### Stack
+### 🕯️ what i work with
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,svelte,postgres,sqlite,supabase,docker,linux,git,bash&perline=11" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,svelte,postgres,sqlite,supabase,docker,git,bash&perline=11" alt="Tech stack" />
 
-### Work
+### 🍵 what i make
 
-```yaml
-automation:
-  - API-connected tools and workflows
-  - less repetitive ops work
-dashboards:
-  - user activity monitoring and analytics
-  - bulk account management
-backend:
-  - REST APIs
-  - relational databases
-  - production infrastructure
-```
+- **automation** · API-connected tools that cut out the busywork
+- **dashboards** · activity monitoring, analytics, bulk account management
+- **backend** · REST APIs, relational databases, production infrastructure
 
-### Currently
+### 🌙 say hi
 
-```console
-$ tail -f ~/now
-exploring system design, automation, and developer tooling
-```
+- 🏡 [jacobong.dev](https://jacobong.dev)
+- 🐙 [@Kraedal](https://github.com/Kraedal)
 
-### Contact
-
-```console
-$ cat links.txt
-portfolio  https://jacobong.dev
-github     https://github.com/Kraedal
-```
+<p align="center">
+  <sub><i>great things are done by a series of small things brought together.</i></sub>
+</p>
