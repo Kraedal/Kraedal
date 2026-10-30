@@ -1,51 +1,53 @@
 # Jacob Ong
 
-**Developer · Integrator · Problem Solver**
+`backend developer` · `integrations` · `automation`
 
-千里之行，始于足下  
-*The journey of a thousand miles begins with one step.*
+> 千里之行，始于足下
 
-I build tools that turn repetitive work into efficient workflows. My interests lie in web development, backend engineering, API integrations, and automation.
+```console
+$ whoami
+jacob — builds tools that turn repetitive work into efficient workflows
 
-Currently exploring better ways to build reliable systems, one project at a time.
+$ cat focus.txt
+backend development, web applications, system integrations
 
----
+$ cat stack.txt
+typescript  sveltekit  python  sql
 
-### `$ whoami`
+$ echo $LOCATION
+philippines 🇵🇭
+```
 
-- **Focus:** Backend development, web applications, and system integrations
-- **Currently building with:** TypeScript, SvelteKit, Python, and SQL
-- **Interested in:** System design, automation, and developer tooling
-- **Based in:** Philippines 🇵🇭
+### Stack
 
-### `$ tech-stack`
+<img src="https://skillicons.dev/icons?i=ts,js,python,svelte,postgres,sqlite,supabase,docker,linux,git,bash&perline=11" alt="Tech stack" />
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,svelte,angular,html,css,postgres,sqlite,supabase,docker,linux,git,bash&perline=7" alt="Tech stack" />
-</p>
+### Work
 
-### `$ selected-work`
+```yaml
+automation:
+  - API-connected tools and workflows
+  - less repetitive ops work
+dashboards:
+  - user activity monitoring and analytics
+  - bulk account management
+backend:
+  - REST APIs
+  - relational databases
+  - production infrastructure
+```
 
-**Automation & Integrations**  
-Building API-connected tools and automated workflows to reduce repetitive operational tasks.
+### Currently
 
-**Data & Dashboards**  
-Developing web dashboards for user activity monitoring, analytics, and bulk account management.
+```console
+$ tail -f ~/now
+exploring system design, automation, and developer tooling
+```
 
-**Systems & Backend**  
-Working with REST APIs, relational databases, and production application infrastructure.
+### Contact
 
-### `$ beyond-the-code`
-
-I enjoy understanding how systems work beneath the surface, finding simpler solutions to tedious problems, and learning technologies that help me build better software.
-
-### `$ find-me`
-
-- Portfolio: [jacobong.dev](https://jacobong.dev)
-- GitHub: [@Kraedal](https://github.com/Kraedal)
-
----
-
-<p align="center">
-  <i>“Great things are done by a series of small things brought together.”</i>
-</p>
+```console
+$ cat links.txt
+portfolio  https://jacobong.dev
+github     https://github.com/Kraedal
+```
